@@ -1,6 +1,6 @@
 # Pac-Man Game
 
-![Pac-Man](https://upload.wikimedia.org/wikipedia/en/e/ec/Pac-Man_Logo.png)
+ Live Demo : https://pacman-swart.vercel.app/
 
 ## Description
 
