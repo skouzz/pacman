@@ -1,16 +1,27 @@
-# Pacman 吃豆游戏
+# Pac-Man Game
 
-- 项目演示(DEMO)地址：https://passer-by.com/pacman/
+![Pac-Man](https://upload.wikimedia.org/wikipedia/en/e/ec/Pac-Man_Logo.png)
 
-### 版权
-本游戏由 [passer-by.com](https://passer-by.com/) 制作，请尊重作者，引用请注明来源。
+## Description
 
-功能
+Pac-Man is a classic arcade game where players navigate a maze, eat dots, and avoid ghosts. This version is built with HTML5 and JavaScript, offering a fun and interactive experience reminiscent of the original game.
 
-- [x] 地图绘制
-- [x] 玩家控制
-- [x] NPC根据玩家坐标实时自动寻径
-- [x] 吃豆积分系统
-- [x] 能量豆功能
-- [x] 多关卡(共12关)
-- [ ] 特殊物品记分
+## Features
+
+- **Classic Gameplay**: Navigate Pac-Man through the maze to eat all the dots.
+- **Ghost Enemies**: Avoid being caught by the ghosts roaming the maze.
+- **Power Pellets**: Eat power pellets to turn the tables on the ghosts for a limited time.
+- **Responsive Design**: Playable on various devices, ensuring a smooth gaming experience.
+
+## Technologies Used
+
+- **HTML5**: Structure of the game.
+- **CSS**: Styling and layout.
+- **JavaScript**: Game logic and interactions.
+- **Canvas API**: Rendering the game graphics.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/skouzz/pacman.git
